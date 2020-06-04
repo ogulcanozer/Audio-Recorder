@@ -1,4 +1,3 @@
 ## Atmel AT91SAM7S256 microcontroller project.
 
-### Reaction timer that displays the time it takes for the user to react to an LED being illuminated.
-
+### 2 Audio recording device with playback and playback with echo (1 second).
